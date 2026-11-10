@@ -1,4 +1,4 @@
-# Sentinel-1 Flood Extent Explorer
+# Pakistan Flood Extent Explorer
 
 **Author:** Damien O'Grady
 

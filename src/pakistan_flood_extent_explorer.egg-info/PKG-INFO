@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: pakistan-flood-extent-explorer
+Version: 0.1.0
+Summary: Sentinel-1 flood imagery comparison using Google Earth Engine
+Author: Damien O'Grady
+Requires-Python: >=3.10

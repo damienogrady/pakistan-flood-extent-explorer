@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "sentinel1-flood-extent-explorer"
+name = "pakistan-flood-extent-explorer"
 version = "0.1.0"
 description = "Sentinel-1 flood imagery comparison using Google Earth Engine"
 requires-python = ">=3.10"

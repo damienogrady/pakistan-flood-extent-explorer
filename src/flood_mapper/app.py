@@ -40,7 +40,7 @@ REGION_CONFIG_VERSION = 3
 VIS_PARAMS = {"bands": ["VV", "VH", "VH_VV_ratio"], "min": [-25, -32, 0], "max": [0, -5, 1]}
 
 st.set_page_config(
-    page_title="Sentinel-1 Flood Extent Explorer",
+    page_title="Pakistan Flood Extent Explorer",
     page_icon="🌊",
     layout="wide",
 )
@@ -191,7 +191,7 @@ def _comparison_map(
 
 def main() -> None:
     _initialize_state()
-    st.title("Sentinel-1 Flood Extent Explorer")
+    st.title("Pakistan Flood Extent Explorer")
     st.markdown(
         "Explore and compare Sentinel-1 radar mosaics for a region of interest "
         "and date range of your choice."
