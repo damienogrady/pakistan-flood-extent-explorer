@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: brisbane-flood-extent-explorer
+Version: 0.1.0
+Summary: Sentinel-1 flood imagery comparison for Brisbane using Google Earth Engine
+Requires-Python: >=3.10

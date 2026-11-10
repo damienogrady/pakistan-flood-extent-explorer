@@ -1,0 +1,9 @@
+earthengine-api>=1.5,<2
+folium>=0.19,<1
+geopandas>=1.0,<2
+pandas>=2.2,<3
+rasterio>=1.4,<2
+requests>=2.32,<3
+streamlit>=1.42,<2
+streamlit-folium>=0.24,<1
+pytest>=8.3,<9
