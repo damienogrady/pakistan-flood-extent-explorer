@@ -1,12 +1,14 @@
 # Sentinel-1 Flood Extent Explorer
 
+**Author:** Damien O'Grady
+
 A small, interactive Sentinel-1 flood-imagery explorer. Its default area of
 interest is the polygon supplied in Sindh, Pakistan. Choose dates and compare
 trailing mosaics or draw a different area. Imagery is requested from Google
 Earth Engine (GEE); the map is not a flood-warning or operational mapping
 product.
 
-I first mapped floods using radar data back in 2011, using the very coarse
+I first mapped floods from radar data back in 2011, using the very coarse
 ENVISAT ASAR GM-mode [(you can see the article here)](https://hess.copernicus.org/articles/15/3475/2011/).
 Back then, without a decent budget and without the power of GEE, such a process
 was far more difficult and less precise than it is now.
@@ -162,8 +164,9 @@ smaller area and try again.
   dates in the AOI and does not promise that every window has full coverage.
   A multi-week mosaic can include observations from before and after peak
   inundation.
-- O’Grady, D., Leblanc, M., & Gillieson, D. (2011). *Use of ENVISAT ASAR Global Monitoring Mode to complement
-  optical data in the mapping of rapid broad-scale flooding in Pakistan*. Hydrology and Earth System Sciences, 15,
+- **O’Grady, D., Leblanc, M., & Gillieson, D. (2011)**. *Use of ENVISAT ASAR
+  Global Monitoring Mode to complement optical data in the mapping of rapid
+  broad-scale flooding in Pakistan*. Hydrology and Earth System Sciences, 15,
   3475–3794. doi:10.5194/hess-15-3475-2011
 
 ## Development
@@ -174,3 +177,8 @@ pytest
 
 See [the methods note](docs/methods.md) for the processing sequence and
 interpretation guidance.
+
+## Author
+
+This project was created by **Damien O'Grady**, building on his earlier work
+mapping floods with ENVISAT ASAR data.

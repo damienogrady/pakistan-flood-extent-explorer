@@ -1,5 +1,7 @@
 """Google Earth Engine queries, Sentinel-1 composites, and small exports."""
 
+# Author: Damien O'Grady
+
 from __future__ import annotations
 
 from datetime import date, timedelta

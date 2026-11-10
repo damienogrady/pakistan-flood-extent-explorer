@@ -1,5 +1,7 @@
 """Date rules for trailing-window Sentinel-1 mosaics."""
 
+# Author: Damien O'Grady
+
 from datetime import date, timedelta
 
 MOSAIC_WINDOW_DAYS = 60

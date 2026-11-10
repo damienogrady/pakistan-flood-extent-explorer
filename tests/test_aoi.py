@@ -1,3 +1,5 @@
+# Author: Damien O'Grady
+
 from datetime import date, timedelta
 
 import pandas as pd

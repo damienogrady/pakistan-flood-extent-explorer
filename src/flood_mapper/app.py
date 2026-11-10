@@ -1,5 +1,7 @@
 """Streamlit interface for interactive Sentinel-1 flood-image comparison."""
 
+# Author: Damien O'Grady
+
 from __future__ import annotations
 
 from datetime import date, timedelta

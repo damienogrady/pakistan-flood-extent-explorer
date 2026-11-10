@@ -7,6 +7,9 @@ name = "sentinel1-flood-extent-explorer"
 version = "0.1.0"
 description = "Sentinel-1 flood imagery comparison using Google Earth Engine"
 requires-python = ">=3.10"
+authors = [
+    { name = "Damien O'Grady" },
+]
 
 [tool.setuptools.packages.find]
 where = ["src"]

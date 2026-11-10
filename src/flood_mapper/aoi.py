@@ -1,5 +1,7 @@
 """Area-of-interest validation and conversion helpers."""
 
+# Author: Damien O'Grady
+
 from __future__ import annotations
 
 from typing import Any
