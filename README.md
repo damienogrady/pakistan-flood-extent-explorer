@@ -82,8 +82,15 @@ If you did not set `GEE_PROJECT`, enter the Cloud project ID in the app, then se
 
 ## Author
 
-Built by Damien O'Grady — remote sensing and GIS consultant. This project builds on [earlier published work](https://hess.copernicus.org/articles/15/3475/2011/) mapping floods with ENVISAT ASAR data.
+Built by Damien O'Grady — remote sensing and GIS consultant. This project builds on [earlier published work](https://hess.copernicus.org/articles/15/3475/2011/)\* mapping floods with ENVISAT ASAR data.
 
 ## Licence
 
 This project is released under the [MIT Licence](LICENSE).
+
+## Reference
+
+\* **O’Grady, D., Leblanc, M., & Gillieson, D. (2011)**. *Use of ENVISAT ASAR
+Global Monitoring Mode to complement optical data in the mapping of rapid
+broad-scale flooding in Pakistan*. Hydrology and Earth System Sciences, 15,
+3475–3794. doi:10.5194/hess-15-3475-2011
