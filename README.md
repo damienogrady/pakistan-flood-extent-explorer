@@ -93,4 +93,4 @@ This project is released under the [MIT Licence](LICENSE).
 \* **O’Grady, D., Leblanc, M., & Gillieson, D. (2011)**. *Use of ENVISAT ASAR
 Global Monitoring Mode to complement optical data in the mapping of rapid
 broad-scale flooding in Pakistan*. Hydrology and Earth System Sciences, 15,
-3475–3794. doi:10.5194/hess-15-3475-2011
+3475–3794. [doi:10.5194/hess-15-3475-2011](https://hess.copernicus.org/articles/15/3475/2011/)
