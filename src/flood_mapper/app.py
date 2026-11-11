@@ -177,7 +177,7 @@ def _comparison_map(
 ) -> folium.Map:
     map_view = folium.Map(
         location=st.session_state["map_center"],
-        zoom_start=st.session_state["map_zoom"],
+        zoom_start=st.session_state["map_zoom"] + 1,
         tiles="OpenStreetMap",
         control_scale=True,
     )
@@ -246,6 +246,10 @@ def main() -> None:
         st.info("Connect before searching the Sentinel-1 archive.")
 
     st.subheader("2 · Choose an area and find mosaic dates")
+    st.write("***NOTE: It is recommended to initially leave all of the default settings "
+             "and explore the 2022 Pakistan flood period.*** "
+             "Just click ***Find mosaic dates***, and then "
+             "***Compare selected mosaics***.")
     st.write(
         "The map starts over your supplied area in Sindh, Pakistan. Pan and "
         "zoom, then draw a rectangle or polygon; otherwise this default area "
