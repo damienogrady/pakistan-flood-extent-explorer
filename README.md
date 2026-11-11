@@ -2,6 +2,8 @@
 
 An interactive Sentinel-1 flood imagery explorer for the 2022 Indus basin floods (with the user able to choose another location and time), built with Python and Google Earth Engine. Choose two dates, compare radar mosaics over the affected area, and export the imagery for further analysis.
 
+![Slider map showing flooding in Pakistan](./images/flood.png)
+
 ## What this demonstrates
 
 Floods happen under storm clouds and at night — conditions that blind optical satellites. Sentinel-1 carries a synthetic aperture radar (SAR) that images through cloud and darkness, which makes it the workhorse sensor for flood response. This project takes that raw radar data and turns it into imagery a non-specialist can interpret and act on:
