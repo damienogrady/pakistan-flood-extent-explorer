@@ -84,11 +84,6 @@ If you did not set `GEE_PROJECT`, enter the Cloud project ID in the app, then se
 
 Built by Damien O'Grady — remote sensing and GIS consultant. This project builds on earlier published work mapping floods with ENVISAT ASAR data.
 
-<!--
-TODO before publishing:
-1. Add 1–2 annotated screenshots of the swipe comparison at the top —
-   the single highest-value addition for a client-facing README.
-2. Choose a licence (MIT suggested for portfolio repos) and add a LICENSE file.
-3. Link the methods note file by its exact filename in docs/.
-4. Add contact line (professional email) once the domain is live.
--->
+## Licence
+
+This project is released under the [MIT Licence](LICENSE).
