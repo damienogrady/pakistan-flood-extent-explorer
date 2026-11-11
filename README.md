@@ -82,7 +82,7 @@ If you did not set `GEE_PROJECT`, enter the Cloud project ID in the app, then se
 
 ## Author
 
-Built by Damien O'Grady — remote sensing and GIS consultant. This project builds on earlier published work mapping floods with ENVISAT ASAR data.
+Built by Damien O'Grady — remote sensing and GIS consultant. This project builds on [earlier published work](https://hess.copernicus.org/articles/15/3475/2011/) mapping floods with ENVISAT ASAR data.
 
 ## Licence
 
