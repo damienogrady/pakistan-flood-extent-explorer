@@ -3,7 +3,8 @@
 An interactive Sentinel-1 flood imagery explorer for the 2022 Indus basin floods (with the user able to choose another location and time), built with Python and Google Earth Engine. Choose two dates, compare radar mosaics over the affected area, and export the imagery for further analysis.
 
 ![Slider map showing flooding in Pakistan](./images/flood.png)
-*Derived from Copernicus Sentinel-1 data*
+
+*Derived from ESA's [(Copernicus Sentinel-1 data)](#reference) 2022.*
 
 ## What this demonstrates
 
@@ -85,7 +86,7 @@ If you did not set `GEE_PROJECT`, enter the Cloud project ID in the app, then se
 
 Built by Damien O'Grady — remote sensing and GIS consultant. This project builds on [earlier published work](https://hess.copernicus.org/articles/15/3475/2011/)\* mapping floods with ENVISAT ASAR data.
 
-## Licence
+## License
 
 This project is released under the [MIT Licence](LICENSE).
 
@@ -95,3 +96,5 @@ This project is released under the [MIT Licence](LICENSE).
 Global Monitoring Mode to complement optical data in the mapping of rapid
 broad-scale flooding in Pakistan*. Hydrology and Earth System Sciences, 15,
 3475–3794. [doi:10.5194/hess-15-3475-2011](https://hess.copernicus.org/articles/15/3475/2011/)
+
+**Dávid D. Kovács, Jan Musial, Jędrzej Bojanowski, Dennis Clarijs, Jurry de la Mar, and András Zlinszky. (2026)**, *Copernicus Data Space Ecosystem establishes public cloud processing for earth observation data.* Scientific Data (2026). [doi: 10.1038/s41597-026-06765-8](https://www.nature.com/articles/s41597-026-06765-8).
