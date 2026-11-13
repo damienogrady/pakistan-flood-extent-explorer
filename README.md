@@ -1,6 +1,6 @@
-# Pakistan Flood Extent Explorer
+# Flood Extent Explorer
 
-An interactive Sentinel-1 flood imagery explorer for the 2022 Indus basin floods (with the user able to choose another location and time), built with Python and Google Earth Engine. Choose two dates, compare radar mosaics over the affected area, and export the imagery for further analysis.
+An interactive Sentinel-1 flood imagery explorer, initially highlighting the 2022 Indus basin floods (with the user able to choose another location and time), built with Python and Google Earth Engine. Choose two dates, compare radar mosaics over the affected area, and export the imagery for further analysis.
 
 ![Slider map showing flooding in Pakistan](./images/flood.png)
 
